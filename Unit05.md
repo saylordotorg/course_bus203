@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS203: Principles of Marketing"
+course_description: "A detailed introduction to the entire marketing process, identifying a customer base and the range of marketing decisions that an organization must make in order to create value that appeals to consumers."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Distribution and Promotion** <span id="5"></span> 
 *Once marketers have identified the right product and determined
 appropriate pricing, they must decide how to effectively raise awareness

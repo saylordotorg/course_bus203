@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS203: Principles of Marketing"
+course_description: "A detailed introduction to the entire marketing process, identifying a customer base and the range of marketing decisions that an organization must make in order to create value that appeals to consumers."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Segmenting, Targeting, and Positioning** <span id="2"></span> 
 *Philip Kotler, the grand dean of marketing textbooks, has suggested
 that if marketers can nail their target and position, all other aspects

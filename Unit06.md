@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS203: Principles of Marketing"
+course_description: "A detailed introduction to the entire marketing process, identifying a customer base and the range of marketing decisions that an organization must make in order to create value that appeals to consumers."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Launching a Marketing Campaign** <span id="6"></span> 
 *Marketing is not just a matter of internal strategies and customer
 analysis. There are factors outside of the company that must be taken

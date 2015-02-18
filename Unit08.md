@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS203: Principles of Marketing"
+course_description: "A detailed introduction to the entire marketing process, identifying a customer base and the range of marketing decisions that an organization must make in order to create value that appeals to consumers."
+next: ../../../
+previous: ../Unit07
+---
 **Unit 8: Final Exam** <span id="8"></span> 
 -   **Final Exam: The Saylor Foundation's “BUS203 Final Exam”**
     Link: The Saylor Foundation's [“BUS203 Final

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS203: Principles of Marketing"
+course_description: "A detailed introduction to the entire marketing process, identifying a customer base and the range of marketing decisions that an organization must make in order to create value that appeals to consumers."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BUS203: Principles of Marketing"
 -----------------------------------------------------
 

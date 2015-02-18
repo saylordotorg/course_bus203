@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS203: Principles of Marketing"
+course_description: "A detailed introduction to the entire marketing process, identifying a customer base and the range of marketing decisions that an organization must make in order to create value that appeals to consumers."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Customers and Marketing Research** <span id="3"></span> 
 *Marketing is all about the customer. But who is the customer? If you
 are a car manufacturer, you have multiple types of customers. You might

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS203: Principles of Marketing"
+course_description: "A detailed introduction to the entire marketing process, identifying a customer base and the range of marketing decisions that an organization must make in order to create value that appeals to consumers."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Marketing Definition and Principles** <span id="1"></span> 
 *We will begin with the basics of marketing. In this unit, we will
 define a number of important terms and distinguish between marketing,

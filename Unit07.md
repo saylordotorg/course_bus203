@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS203: Principles of Marketing"
+course_description: "A detailed introduction to the entire marketing process, identifying a customer base and the range of marketing decisions that an organization must make in order to create value that appeals to consumers."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Professional Development** <span id="7"></span> 
 *Well-honed marketing and communication skills have a place in just
 about every human enterprise from international commerce to campaigns
